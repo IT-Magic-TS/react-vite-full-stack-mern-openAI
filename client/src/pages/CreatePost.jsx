@@ -84,7 +84,7 @@ const CreatePost = () => {
         <h1 
           className='font-extrabold text-[#222328] text-[32px]'
         >
-          Create 
+          Create Post
         </h1>      
         <p
           className='mt-2 text-[#666e75] txt-[16px] max-w-[500px]'
